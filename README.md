@@ -1,4 +1,4 @@
-## NAMA BOT
+## boy bot
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,10 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/afandiyon/boy-wa
+> cd boy-wa
+> npm i -g cwebp && npm i -g ytdl
+> npm i && npm i got
 > bash install.sh
 > node index.js
 ```
@@ -52,4 +54,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-*
+*PAKET DATA TELKOMSEL KIRIM KE NOMOR INI 👉;+62 812-9816-6818
